@@ -72,4 +72,4 @@ N'utilisant pas apache2, je ne peux pas certifier que cela fonctionne mais il su
     </Limit>
 ```
 
-Ces solutions sont évidemment à adapter à vos besoins, si votre site demande l'accès aux requêtes HEAD, essayes plûtot d'ajouter une condition supplémentaire basée sur l'addresse IP. Il doit aussi être possible de faire des choses plus simples avec UFW mais je n'ai pas encore exploré cette piste.
+Ces solutions sont évidemment à adapter à vos besoins, si votre site demande l'accès aux requêtes HEAD, essayez plûtot d'ajouter une condition supplémentaire basée sur l'addresse IP. Il doit aussi être possible de faire des choses plus simples avec UFW mais je n'ai pas encore exploré cette piste.
